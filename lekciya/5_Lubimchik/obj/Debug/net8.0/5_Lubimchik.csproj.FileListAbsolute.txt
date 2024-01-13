@@ -1,0 +1,15 @@
+D:\GB\C_Sharp\lekciya\5_Lubimchik\obj\Debug\net8.0\5_Lubimchik.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\C_Sharp\lekciya\5_Lubimchik\obj\Debug\net8.0\5_Lubimchik.AssemblyInfoInputs.cache
+D:\GB\C_Sharp\lekciya\5_Lubimchik\obj\Debug\net8.0\5_Lubimchik.AssemblyInfo.cs
+D:\GB\C_Sharp\lekciya\5_Lubimchik\obj\Debug\net8.0\5_Lubimchik.csproj.CoreCompileInputs.cache
+D:\GB\C_Sharp\lekciya\5_Lubimchik\obj\Debug\net8.0\5_Lubimchik.sourcelink.json
+D:\GB\C_Sharp\lekciya\5_Lubimchik\bin\Debug\net8.0\5_Lubimchik.exe
+D:\GB\C_Sharp\lekciya\5_Lubimchik\bin\Debug\net8.0\5_Lubimchik.deps.json
+D:\GB\C_Sharp\lekciya\5_Lubimchik\bin\Debug\net8.0\5_Lubimchik.runtimeconfig.json
+D:\GB\C_Sharp\lekciya\5_Lubimchik\bin\Debug\net8.0\5_Lubimchik.dll
+D:\GB\C_Sharp\lekciya\5_Lubimchik\bin\Debug\net8.0\5_Lubimchik.pdb
+D:\GB\C_Sharp\lekciya\5_Lubimchik\obj\Debug\net8.0\5_Lubimchik.dll
+D:\GB\C_Sharp\lekciya\5_Lubimchik\obj\Debug\net8.0\refint\5_Lubimchik.dll
+D:\GB\C_Sharp\lekciya\5_Lubimchik\obj\Debug\net8.0\5_Lubimchik.pdb
+D:\GB\C_Sharp\lekciya\5_Lubimchik\obj\Debug\net8.0\5_Lubimchik.genruntimeconfig.cache
+D:\GB\C_Sharp\lekciya\5_Lubimchik\obj\Debug\net8.0\ref\5_Lubimchik.dll
