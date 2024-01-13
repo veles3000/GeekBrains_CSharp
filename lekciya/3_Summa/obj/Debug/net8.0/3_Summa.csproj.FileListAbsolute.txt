@@ -1,0 +1,15 @@
+D:\GB\C_Sharp\lekciya\3_Summa\obj\Debug\net8.0\3_Summa.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\C_Sharp\lekciya\3_Summa\obj\Debug\net8.0\3_Summa.AssemblyInfoInputs.cache
+D:\GB\C_Sharp\lekciya\3_Summa\obj\Debug\net8.0\3_Summa.AssemblyInfo.cs
+D:\GB\C_Sharp\lekciya\3_Summa\obj\Debug\net8.0\3_Summa.csproj.CoreCompileInputs.cache
+D:\GB\C_Sharp\lekciya\3_Summa\obj\Debug\net8.0\3_Summa.sourcelink.json
+D:\GB\C_Sharp\lekciya\3_Summa\bin\Debug\net8.0\3_Summa.exe
+D:\GB\C_Sharp\lekciya\3_Summa\bin\Debug\net8.0\3_Summa.deps.json
+D:\GB\C_Sharp\lekciya\3_Summa\bin\Debug\net8.0\3_Summa.runtimeconfig.json
+D:\GB\C_Sharp\lekciya\3_Summa\bin\Debug\net8.0\3_Summa.dll
+D:\GB\C_Sharp\lekciya\3_Summa\bin\Debug\net8.0\3_Summa.pdb
+D:\GB\C_Sharp\lekciya\3_Summa\obj\Debug\net8.0\3_Summa.dll
+D:\GB\C_Sharp\lekciya\3_Summa\obj\Debug\net8.0\refint\3_Summa.dll
+D:\GB\C_Sharp\lekciya\3_Summa\obj\Debug\net8.0\3_Summa.pdb
+D:\GB\C_Sharp\lekciya\3_Summa\obj\Debug\net8.0\3_Summa.genruntimeconfig.cache
+D:\GB\C_Sharp\lekciya\3_Summa\obj\Debug\net8.0\ref\3_Summa.dll
