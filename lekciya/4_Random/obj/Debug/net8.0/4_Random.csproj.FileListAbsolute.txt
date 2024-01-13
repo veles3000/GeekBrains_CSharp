@@ -1,0 +1,15 @@
+D:\GB\C_Sharp\lekciya\4_Random\bin\Debug\net8.0\4_Random.exe
+D:\GB\C_Sharp\lekciya\4_Random\bin\Debug\net8.0\4_Random.deps.json
+D:\GB\C_Sharp\lekciya\4_Random\bin\Debug\net8.0\4_Random.runtimeconfig.json
+D:\GB\C_Sharp\lekciya\4_Random\bin\Debug\net8.0\4_Random.dll
+D:\GB\C_Sharp\lekciya\4_Random\bin\Debug\net8.0\4_Random.pdb
+D:\GB\C_Sharp\lekciya\4_Random\obj\Debug\net8.0\4_Random.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\C_Sharp\lekciya\4_Random\obj\Debug\net8.0\4_Random.AssemblyInfoInputs.cache
+D:\GB\C_Sharp\lekciya\4_Random\obj\Debug\net8.0\4_Random.AssemblyInfo.cs
+D:\GB\C_Sharp\lekciya\4_Random\obj\Debug\net8.0\4_Random.csproj.CoreCompileInputs.cache
+D:\GB\C_Sharp\lekciya\4_Random\obj\Debug\net8.0\4_Random.sourcelink.json
+D:\GB\C_Sharp\lekciya\4_Random\obj\Debug\net8.0\4_Random.dll
+D:\GB\C_Sharp\lekciya\4_Random\obj\Debug\net8.0\refint\4_Random.dll
+D:\GB\C_Sharp\lekciya\4_Random\obj\Debug\net8.0\4_Random.pdb
+D:\GB\C_Sharp\lekciya\4_Random\obj\Debug\net8.0\4_Random.genruntimeconfig.cache
+D:\GB\C_Sharp\lekciya\4_Random\obj\Debug\net8.0\ref\4_Random.dll
