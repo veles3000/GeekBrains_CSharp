@@ -1,0 +1,15 @@
+D:\GB\C_Sharp\lekciya\1\bin\Debug\net8.0\1.exe
+D:\GB\C_Sharp\lekciya\1\bin\Debug\net8.0\1.deps.json
+D:\GB\C_Sharp\lekciya\1\bin\Debug\net8.0\1.runtimeconfig.json
+D:\GB\C_Sharp\lekciya\1\bin\Debug\net8.0\1.dll
+D:\GB\C_Sharp\lekciya\1\bin\Debug\net8.0\1.pdb
+D:\GB\C_Sharp\lekciya\1\obj\Debug\net8.0\1.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\C_Sharp\lekciya\1\obj\Debug\net8.0\1.AssemblyInfoInputs.cache
+D:\GB\C_Sharp\lekciya\1\obj\Debug\net8.0\1.AssemblyInfo.cs
+D:\GB\C_Sharp\lekciya\1\obj\Debug\net8.0\1.csproj.CoreCompileInputs.cache
+D:\GB\C_Sharp\lekciya\1\obj\Debug\net8.0\1.sourcelink.json
+D:\GB\C_Sharp\lekciya\1\obj\Debug\net8.0\1.dll
+D:\GB\C_Sharp\lekciya\1\obj\Debug\net8.0\refint\1.dll
+D:\GB\C_Sharp\lekciya\1\obj\Debug\net8.0\1.pdb
+D:\GB\C_Sharp\lekciya\1\obj\Debug\net8.0\1.genruntimeconfig.cache
+D:\GB\C_Sharp\lekciya\1\obj\Debug\net8.0\ref\1.dll
