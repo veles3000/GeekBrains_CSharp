@@ -1,0 +1,15 @@
+D:\GB\C_Sharp\lekciya\7_Magik\obj\Debug\net8.0\7_Magik.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\C_Sharp\lekciya\7_Magik\obj\Debug\net8.0\7_Magik.AssemblyInfoInputs.cache
+D:\GB\C_Sharp\lekciya\7_Magik\obj\Debug\net8.0\7_Magik.AssemblyInfo.cs
+D:\GB\C_Sharp\lekciya\7_Magik\obj\Debug\net8.0\7_Magik.csproj.CoreCompileInputs.cache
+D:\GB\C_Sharp\lekciya\7_Magik\obj\Debug\net8.0\7_Magik.sourcelink.json
+D:\GB\C_Sharp\lekciya\7_Magik\bin\Debug\net8.0\7_Magik.exe
+D:\GB\C_Sharp\lekciya\7_Magik\bin\Debug\net8.0\7_Magik.deps.json
+D:\GB\C_Sharp\lekciya\7_Magik\bin\Debug\net8.0\7_Magik.runtimeconfig.json
+D:\GB\C_Sharp\lekciya\7_Magik\bin\Debug\net8.0\7_Magik.dll
+D:\GB\C_Sharp\lekciya\7_Magik\bin\Debug\net8.0\7_Magik.pdb
+D:\GB\C_Sharp\lekciya\7_Magik\obj\Debug\net8.0\7_Magik.dll
+D:\GB\C_Sharp\lekciya\7_Magik\obj\Debug\net8.0\refint\7_Magik.dll
+D:\GB\C_Sharp\lekciya\7_Magik\obj\Debug\net8.0\7_Magik.pdb
+D:\GB\C_Sharp\lekciya\7_Magik\obj\Debug\net8.0\7_Magik.genruntimeconfig.cache
+D:\GB\C_Sharp\lekciya\7_Magik\obj\Debug\net8.0\ref\7_Magik.dll
