@@ -1,0 +1,15 @@
+D:\GB\C_Sharp\lekciya\2_privet_polzovatel\obj\Debug\net8.0\2_privet_polzovatel.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\C_Sharp\lekciya\2_privet_polzovatel\obj\Debug\net8.0\2_privet_polzovatel.AssemblyInfoInputs.cache
+D:\GB\C_Sharp\lekciya\2_privet_polzovatel\obj\Debug\net8.0\2_privet_polzovatel.AssemblyInfo.cs
+D:\GB\C_Sharp\lekciya\2_privet_polzovatel\obj\Debug\net8.0\2_privet_polzovatel.csproj.CoreCompileInputs.cache
+D:\GB\C_Sharp\lekciya\2_privet_polzovatel\obj\Debug\net8.0\2_privet_polzovatel.sourcelink.json
+D:\GB\C_Sharp\lekciya\2_privet_polzovatel\bin\Debug\net8.0\2_privet_polzovatel.exe
+D:\GB\C_Sharp\lekciya\2_privet_polzovatel\bin\Debug\net8.0\2_privet_polzovatel.deps.json
+D:\GB\C_Sharp\lekciya\2_privet_polzovatel\bin\Debug\net8.0\2_privet_polzovatel.runtimeconfig.json
+D:\GB\C_Sharp\lekciya\2_privet_polzovatel\bin\Debug\net8.0\2_privet_polzovatel.dll
+D:\GB\C_Sharp\lekciya\2_privet_polzovatel\bin\Debug\net8.0\2_privet_polzovatel.pdb
+D:\GB\C_Sharp\lekciya\2_privet_polzovatel\obj\Debug\net8.0\2_privet_polzovatel.dll
+D:\GB\C_Sharp\lekciya\2_privet_polzovatel\obj\Debug\net8.0\refint\2_privet_polzovatel.dll
+D:\GB\C_Sharp\lekciya\2_privet_polzovatel\obj\Debug\net8.0\2_privet_polzovatel.pdb
+D:\GB\C_Sharp\lekciya\2_privet_polzovatel\obj\Debug\net8.0\2_privet_polzovatel.genruntimeconfig.cache
+D:\GB\C_Sharp\lekciya\2_privet_polzovatel\obj\Debug\net8.0\ref\2_privet_polzovatel.dll
