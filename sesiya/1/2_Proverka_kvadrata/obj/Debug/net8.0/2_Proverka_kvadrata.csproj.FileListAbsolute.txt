@@ -1,0 +1,15 @@
+D:\GB\C_Sharp\sesiya\1\2_Proverka_kvadrata\bin\Debug\net8.0\2_Proverka_kvadrata.exe
+D:\GB\C_Sharp\sesiya\1\2_Proverka_kvadrata\bin\Debug\net8.0\2_Proverka_kvadrata.deps.json
+D:\GB\C_Sharp\sesiya\1\2_Proverka_kvadrata\bin\Debug\net8.0\2_Proverka_kvadrata.runtimeconfig.json
+D:\GB\C_Sharp\sesiya\1\2_Proverka_kvadrata\bin\Debug\net8.0\2_Proverka_kvadrata.dll
+D:\GB\C_Sharp\sesiya\1\2_Proverka_kvadrata\bin\Debug\net8.0\2_Proverka_kvadrata.pdb
+D:\GB\C_Sharp\sesiya\1\2_Proverka_kvadrata\obj\Debug\net8.0\2_Proverka_kvadrata.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\C_Sharp\sesiya\1\2_Proverka_kvadrata\obj\Debug\net8.0\2_Proverka_kvadrata.AssemblyInfoInputs.cache
+D:\GB\C_Sharp\sesiya\1\2_Proverka_kvadrata\obj\Debug\net8.0\2_Proverka_kvadrata.AssemblyInfo.cs
+D:\GB\C_Sharp\sesiya\1\2_Proverka_kvadrata\obj\Debug\net8.0\2_Proverka_kvadrata.csproj.CoreCompileInputs.cache
+D:\GB\C_Sharp\sesiya\1\2_Proverka_kvadrata\obj\Debug\net8.0\2_Proverka_kvadrata.sourcelink.json
+D:\GB\C_Sharp\sesiya\1\2_Proverka_kvadrata\obj\Debug\net8.0\2_Proverka_kvadrata.dll
+D:\GB\C_Sharp\sesiya\1\2_Proverka_kvadrata\obj\Debug\net8.0\refint\2_Proverka_kvadrata.dll
+D:\GB\C_Sharp\sesiya\1\2_Proverka_kvadrata\obj\Debug\net8.0\2_Proverka_kvadrata.pdb
+D:\GB\C_Sharp\sesiya\1\2_Proverka_kvadrata\obj\Debug\net8.0\2_Proverka_kvadrata.genruntimeconfig.cache
+D:\GB\C_Sharp\sesiya\1\2_Proverka_kvadrata\obj\Debug\net8.0\ref\2_Proverka_kvadrata.dll

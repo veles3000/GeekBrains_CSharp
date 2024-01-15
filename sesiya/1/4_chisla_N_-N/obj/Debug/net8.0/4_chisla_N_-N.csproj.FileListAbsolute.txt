@@ -1,0 +1,15 @@
+D:\GB\C_Sharp\sesiya\1\4_chisla_N_-N\obj\Debug\net8.0\4_chisla_N_-N.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\C_Sharp\sesiya\1\4_chisla_N_-N\obj\Debug\net8.0\4_chisla_N_-N.AssemblyInfoInputs.cache
+D:\GB\C_Sharp\sesiya\1\4_chisla_N_-N\obj\Debug\net8.0\4_chisla_N_-N.AssemblyInfo.cs
+D:\GB\C_Sharp\sesiya\1\4_chisla_N_-N\obj\Debug\net8.0\4_chisla_N_-N.csproj.CoreCompileInputs.cache
+D:\GB\C_Sharp\sesiya\1\4_chisla_N_-N\obj\Debug\net8.0\4_chisla_N_-N.sourcelink.json
+D:\GB\C_Sharp\sesiya\1\4_chisla_N_-N\bin\Debug\net8.0\4_chisla_N_-N.exe
+D:\GB\C_Sharp\sesiya\1\4_chisla_N_-N\bin\Debug\net8.0\4_chisla_N_-N.deps.json
+D:\GB\C_Sharp\sesiya\1\4_chisla_N_-N\bin\Debug\net8.0\4_chisla_N_-N.runtimeconfig.json
+D:\GB\C_Sharp\sesiya\1\4_chisla_N_-N\bin\Debug\net8.0\4_chisla_N_-N.dll
+D:\GB\C_Sharp\sesiya\1\4_chisla_N_-N\bin\Debug\net8.0\4_chisla_N_-N.pdb
+D:\GB\C_Sharp\sesiya\1\4_chisla_N_-N\obj\Debug\net8.0\4_chisla_N_-N.dll
+D:\GB\C_Sharp\sesiya\1\4_chisla_N_-N\obj\Debug\net8.0\refint\4_chisla_N_-N.dll
+D:\GB\C_Sharp\sesiya\1\4_chisla_N_-N\obj\Debug\net8.0\4_chisla_N_-N.pdb
+D:\GB\C_Sharp\sesiya\1\4_chisla_N_-N\obj\Debug\net8.0\4_chisla_N_-N.genruntimeconfig.cache
+D:\GB\C_Sharp\sesiya\1\4_chisla_N_-N\obj\Debug\net8.0\ref\4_chisla_N_-N.dll

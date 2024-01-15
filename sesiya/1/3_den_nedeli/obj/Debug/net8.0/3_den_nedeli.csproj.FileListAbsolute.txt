@@ -1,0 +1,15 @@
+D:\GB\C_Sharp\sesiya\1\3_den_nedeli\bin\Debug\net8.0\3_den_nedeli.exe
+D:\GB\C_Sharp\sesiya\1\3_den_nedeli\bin\Debug\net8.0\3_den_nedeli.deps.json
+D:\GB\C_Sharp\sesiya\1\3_den_nedeli\bin\Debug\net8.0\3_den_nedeli.runtimeconfig.json
+D:\GB\C_Sharp\sesiya\1\3_den_nedeli\bin\Debug\net8.0\3_den_nedeli.dll
+D:\GB\C_Sharp\sesiya\1\3_den_nedeli\bin\Debug\net8.0\3_den_nedeli.pdb
+D:\GB\C_Sharp\sesiya\1\3_den_nedeli\obj\Debug\net8.0\3_den_nedeli.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\C_Sharp\sesiya\1\3_den_nedeli\obj\Debug\net8.0\3_den_nedeli.AssemblyInfoInputs.cache
+D:\GB\C_Sharp\sesiya\1\3_den_nedeli\obj\Debug\net8.0\3_den_nedeli.AssemblyInfo.cs
+D:\GB\C_Sharp\sesiya\1\3_den_nedeli\obj\Debug\net8.0\3_den_nedeli.csproj.CoreCompileInputs.cache
+D:\GB\C_Sharp\sesiya\1\3_den_nedeli\obj\Debug\net8.0\3_den_nedeli.sourcelink.json
+D:\GB\C_Sharp\sesiya\1\3_den_nedeli\obj\Debug\net8.0\3_den_nedeli.dll
+D:\GB\C_Sharp\sesiya\1\3_den_nedeli\obj\Debug\net8.0\refint\3_den_nedeli.dll
+D:\GB\C_Sharp\sesiya\1\3_den_nedeli\obj\Debug\net8.0\3_den_nedeli.pdb
+D:\GB\C_Sharp\sesiya\1\3_den_nedeli\obj\Debug\net8.0\3_den_nedeli.genruntimeconfig.cache
+D:\GB\C_Sharp\sesiya\1\3_den_nedeli\obj\Debug\net8.0\ref\3_den_nedeli.dll

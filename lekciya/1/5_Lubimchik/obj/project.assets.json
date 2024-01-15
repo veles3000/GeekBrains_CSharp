@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GB\\C_Sharp\\lekciya\\5_Lubimchik\\5_Lubimchik.csproj",
+      "projectUniqueName": "D:\\GB\\C_Sharp\\lekciya\\1\\5_Lubimchik\\5_Lubimchik.csproj",
       "projectName": "5_Lubimchik",
-      "projectPath": "D:\\GB\\C_Sharp\\lekciya\\5_Lubimchik\\5_Lubimchik.csproj",
+      "projectPath": "D:\\GB\\C_Sharp\\lekciya\\1\\5_Lubimchik\\5_Lubimchik.csproj",
       "packagesPath": "C:\\Users\\Юрий\\.nuget\\packages\\",
-      "outputPath": "D:\\GB\\C_Sharp\\lekciya\\5_Lubimchik\\obj\\",
+      "outputPath": "D:\\GB\\C_Sharp\\lekciya\\1\\5_Lubimchik\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Юрий\\AppData\\Roaming\\NuGet\\NuGet.Config"
