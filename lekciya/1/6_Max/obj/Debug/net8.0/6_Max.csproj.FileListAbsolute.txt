@@ -1,0 +1,15 @@
+D:\GB\C_Sharp\lekciya\6_Max\bin\Debug\net8.0\6_Max.exe
+D:\GB\C_Sharp\lekciya\6_Max\bin\Debug\net8.0\6_Max.deps.json
+D:\GB\C_Sharp\lekciya\6_Max\bin\Debug\net8.0\6_Max.runtimeconfig.json
+D:\GB\C_Sharp\lekciya\6_Max\bin\Debug\net8.0\6_Max.dll
+D:\GB\C_Sharp\lekciya\6_Max\bin\Debug\net8.0\6_Max.pdb
+D:\GB\C_Sharp\lekciya\6_Max\obj\Debug\net8.0\6_Max.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\C_Sharp\lekciya\6_Max\obj\Debug\net8.0\6_Max.AssemblyInfoInputs.cache
+D:\GB\C_Sharp\lekciya\6_Max\obj\Debug\net8.0\6_Max.AssemblyInfo.cs
+D:\GB\C_Sharp\lekciya\6_Max\obj\Debug\net8.0\6_Max.csproj.CoreCompileInputs.cache
+D:\GB\C_Sharp\lekciya\6_Max\obj\Debug\net8.0\6_Max.sourcelink.json
+D:\GB\C_Sharp\lekciya\6_Max\obj\Debug\net8.0\6_Max.dll
+D:\GB\C_Sharp\lekciya\6_Max\obj\Debug\net8.0\refint\6_Max.dll
+D:\GB\C_Sharp\lekciya\6_Max\obj\Debug\net8.0\6_Max.pdb
+D:\GB\C_Sharp\lekciya\6_Max\obj\Debug\net8.0\6_Max.genruntimeconfig.cache
+D:\GB\C_Sharp\lekciya\6_Max\obj\Debug\net8.0\ref\6_Max.dll
