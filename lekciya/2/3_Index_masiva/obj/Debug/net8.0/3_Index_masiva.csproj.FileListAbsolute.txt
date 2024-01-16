@@ -1,0 +1,15 @@
+D:\GB\C_Sharp\lekciya\2\3_Index_masiva\obj\Debug\net8.0\3_Index_masiva.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\C_Sharp\lekciya\2\3_Index_masiva\obj\Debug\net8.0\3_Index_masiva.AssemblyInfoInputs.cache
+D:\GB\C_Sharp\lekciya\2\3_Index_masiva\obj\Debug\net8.0\3_Index_masiva.AssemblyInfo.cs
+D:\GB\C_Sharp\lekciya\2\3_Index_masiva\obj\Debug\net8.0\3_Index_masiva.csproj.CoreCompileInputs.cache
+D:\GB\C_Sharp\lekciya\2\3_Index_masiva\obj\Debug\net8.0\3_Index_masiva.sourcelink.json
+D:\GB\C_Sharp\lekciya\2\3_Index_masiva\bin\Debug\net8.0\3_Index_masiva.exe
+D:\GB\C_Sharp\lekciya\2\3_Index_masiva\bin\Debug\net8.0\3_Index_masiva.deps.json
+D:\GB\C_Sharp\lekciya\2\3_Index_masiva\bin\Debug\net8.0\3_Index_masiva.runtimeconfig.json
+D:\GB\C_Sharp\lekciya\2\3_Index_masiva\bin\Debug\net8.0\3_Index_masiva.dll
+D:\GB\C_Sharp\lekciya\2\3_Index_masiva\bin\Debug\net8.0\3_Index_masiva.pdb
+D:\GB\C_Sharp\lekciya\2\3_Index_masiva\obj\Debug\net8.0\3_Index_masiva.dll
+D:\GB\C_Sharp\lekciya\2\3_Index_masiva\obj\Debug\net8.0\refint\3_Index_masiva.dll
+D:\GB\C_Sharp\lekciya\2\3_Index_masiva\obj\Debug\net8.0\3_Index_masiva.pdb
+D:\GB\C_Sharp\lekciya\2\3_Index_masiva\obj\Debug\net8.0\3_Index_masiva.genruntimeconfig.cache
+D:\GB\C_Sharp\lekciya\2\3_Index_masiva\obj\Debug\net8.0\ref\3_Index_masiva.dll

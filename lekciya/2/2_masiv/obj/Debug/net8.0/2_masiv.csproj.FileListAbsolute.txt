@@ -1,0 +1,15 @@
+D:\GB\C_Sharp\lekciya\2\2_masiv\bin\Debug\net8.0\2_masiv.exe
+D:\GB\C_Sharp\lekciya\2\2_masiv\bin\Debug\net8.0\2_masiv.deps.json
+D:\GB\C_Sharp\lekciya\2\2_masiv\bin\Debug\net8.0\2_masiv.runtimeconfig.json
+D:\GB\C_Sharp\lekciya\2\2_masiv\bin\Debug\net8.0\2_masiv.dll
+D:\GB\C_Sharp\lekciya\2\2_masiv\bin\Debug\net8.0\2_masiv.pdb
+D:\GB\C_Sharp\lekciya\2\2_masiv\obj\Debug\net8.0\2_masiv.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\C_Sharp\lekciya\2\2_masiv\obj\Debug\net8.0\2_masiv.AssemblyInfoInputs.cache
+D:\GB\C_Sharp\lekciya\2\2_masiv\obj\Debug\net8.0\2_masiv.AssemblyInfo.cs
+D:\GB\C_Sharp\lekciya\2\2_masiv\obj\Debug\net8.0\2_masiv.csproj.CoreCompileInputs.cache
+D:\GB\C_Sharp\lekciya\2\2_masiv\obj\Debug\net8.0\2_masiv.sourcelink.json
+D:\GB\C_Sharp\lekciya\2\2_masiv\obj\Debug\net8.0\2_masiv.dll
+D:\GB\C_Sharp\lekciya\2\2_masiv\obj\Debug\net8.0\refint\2_masiv.dll
+D:\GB\C_Sharp\lekciya\2\2_masiv\obj\Debug\net8.0\2_masiv.pdb
+D:\GB\C_Sharp\lekciya\2\2_masiv\obj\Debug\net8.0\2_masiv.genruntimeconfig.cache
+D:\GB\C_Sharp\lekciya\2\2_masiv\obj\Debug\net8.0\ref\2_masiv.dll

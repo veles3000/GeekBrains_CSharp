@@ -1,0 +1,15 @@
+D:\GB\C_Sharp\lekciya\2\1_max_iz_9\bin\Debug\net8.0\1_max_iz_9.exe
+D:\GB\C_Sharp\lekciya\2\1_max_iz_9\bin\Debug\net8.0\1_max_iz_9.deps.json
+D:\GB\C_Sharp\lekciya\2\1_max_iz_9\bin\Debug\net8.0\1_max_iz_9.runtimeconfig.json
+D:\GB\C_Sharp\lekciya\2\1_max_iz_9\bin\Debug\net8.0\1_max_iz_9.dll
+D:\GB\C_Sharp\lekciya\2\1_max_iz_9\bin\Debug\net8.0\1_max_iz_9.pdb
+D:\GB\C_Sharp\lekciya\2\1_max_iz_9\obj\Debug\net8.0\1_max_iz_9.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\C_Sharp\lekciya\2\1_max_iz_9\obj\Debug\net8.0\1_max_iz_9.AssemblyInfoInputs.cache
+D:\GB\C_Sharp\lekciya\2\1_max_iz_9\obj\Debug\net8.0\1_max_iz_9.AssemblyInfo.cs
+D:\GB\C_Sharp\lekciya\2\1_max_iz_9\obj\Debug\net8.0\1_max_iz_9.csproj.CoreCompileInputs.cache
+D:\GB\C_Sharp\lekciya\2\1_max_iz_9\obj\Debug\net8.0\1_max_iz_9.sourcelink.json
+D:\GB\C_Sharp\lekciya\2\1_max_iz_9\obj\Debug\net8.0\1_max_iz_9.dll
+D:\GB\C_Sharp\lekciya\2\1_max_iz_9\obj\Debug\net8.0\refint\1_max_iz_9.dll
+D:\GB\C_Sharp\lekciya\2\1_max_iz_9\obj\Debug\net8.0\1_max_iz_9.pdb
+D:\GB\C_Sharp\lekciya\2\1_max_iz_9\obj\Debug\net8.0\1_max_iz_9.genruntimeconfig.cache
+D:\GB\C_Sharp\lekciya\2\1_max_iz_9\obj\Debug\net8.0\ref\1_max_iz_9.dll
