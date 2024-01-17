@@ -1,0 +1,15 @@
+D:\GB\C_Sharp\sesiya\1\DZ\1_Bolshe_menshe\obj\Debug\net8.0\1_Bolshe_menshe.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\C_Sharp\sesiya\1\DZ\1_Bolshe_menshe\obj\Debug\net8.0\1_Bolshe_menshe.AssemblyInfoInputs.cache
+D:\GB\C_Sharp\sesiya\1\DZ\1_Bolshe_menshe\obj\Debug\net8.0\1_Bolshe_menshe.AssemblyInfo.cs
+D:\GB\C_Sharp\sesiya\1\DZ\1_Bolshe_menshe\obj\Debug\net8.0\1_Bolshe_menshe.csproj.CoreCompileInputs.cache
+D:\GB\C_Sharp\sesiya\1\DZ\1_Bolshe_menshe\obj\Debug\net8.0\1_Bolshe_menshe.sourcelink.json
+D:\GB\C_Sharp\sesiya\1\DZ\1_Bolshe_menshe\bin\Debug\net8.0\1_Bolshe_menshe.exe
+D:\GB\C_Sharp\sesiya\1\DZ\1_Bolshe_menshe\bin\Debug\net8.0\1_Bolshe_menshe.deps.json
+D:\GB\C_Sharp\sesiya\1\DZ\1_Bolshe_menshe\bin\Debug\net8.0\1_Bolshe_menshe.runtimeconfig.json
+D:\GB\C_Sharp\sesiya\1\DZ\1_Bolshe_menshe\bin\Debug\net8.0\1_Bolshe_menshe.dll
+D:\GB\C_Sharp\sesiya\1\DZ\1_Bolshe_menshe\bin\Debug\net8.0\1_Bolshe_menshe.pdb
+D:\GB\C_Sharp\sesiya\1\DZ\1_Bolshe_menshe\obj\Debug\net8.0\1_Bolshe_menshe.dll
+D:\GB\C_Sharp\sesiya\1\DZ\1_Bolshe_menshe\obj\Debug\net8.0\refint\1_Bolshe_menshe.dll
+D:\GB\C_Sharp\sesiya\1\DZ\1_Bolshe_menshe\obj\Debug\net8.0\1_Bolshe_menshe.pdb
+D:\GB\C_Sharp\sesiya\1\DZ\1_Bolshe_menshe\obj\Debug\net8.0\1_Bolshe_menshe.genruntimeconfig.cache
+D:\GB\C_Sharp\sesiya\1\DZ\1_Bolshe_menshe\obj\Debug\net8.0\ref\1_Bolshe_menshe.dll

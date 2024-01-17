@@ -1,0 +1,15 @@
+D:\GB\C_Sharp\sesiya\1\DZ\2_max\obj\Debug\net8.0\2_max.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\C_Sharp\sesiya\1\DZ\2_max\obj\Debug\net8.0\2_max.AssemblyInfoInputs.cache
+D:\GB\C_Sharp\sesiya\1\DZ\2_max\obj\Debug\net8.0\2_max.AssemblyInfo.cs
+D:\GB\C_Sharp\sesiya\1\DZ\2_max\obj\Debug\net8.0\2_max.csproj.CoreCompileInputs.cache
+D:\GB\C_Sharp\sesiya\1\DZ\2_max\obj\Debug\net8.0\2_max.sourcelink.json
+D:\GB\C_Sharp\sesiya\1\DZ\2_max\bin\Debug\net8.0\2_max.exe
+D:\GB\C_Sharp\sesiya\1\DZ\2_max\bin\Debug\net8.0\2_max.deps.json
+D:\GB\C_Sharp\sesiya\1\DZ\2_max\bin\Debug\net8.0\2_max.runtimeconfig.json
+D:\GB\C_Sharp\sesiya\1\DZ\2_max\bin\Debug\net8.0\2_max.dll
+D:\GB\C_Sharp\sesiya\1\DZ\2_max\bin\Debug\net8.0\2_max.pdb
+D:\GB\C_Sharp\sesiya\1\DZ\2_max\obj\Debug\net8.0\2_max.dll
+D:\GB\C_Sharp\sesiya\1\DZ\2_max\obj\Debug\net8.0\refint\2_max.dll
+D:\GB\C_Sharp\sesiya\1\DZ\2_max\obj\Debug\net8.0\2_max.pdb
+D:\GB\C_Sharp\sesiya\1\DZ\2_max\obj\Debug\net8.0\2_max.genruntimeconfig.cache
+D:\GB\C_Sharp\sesiya\1\DZ\2_max\obj\Debug\net8.0\ref\2_max.dll

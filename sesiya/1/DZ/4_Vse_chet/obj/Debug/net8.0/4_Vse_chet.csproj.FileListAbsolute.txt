@@ -1,0 +1,15 @@
+D:\GB\C_Sharp\sesiya\1\DZ\4_Vse_chet\obj\Debug\net8.0\4_Vse_chet.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\C_Sharp\sesiya\1\DZ\4_Vse_chet\obj\Debug\net8.0\4_Vse_chet.AssemblyInfoInputs.cache
+D:\GB\C_Sharp\sesiya\1\DZ\4_Vse_chet\obj\Debug\net8.0\4_Vse_chet.AssemblyInfo.cs
+D:\GB\C_Sharp\sesiya\1\DZ\4_Vse_chet\obj\Debug\net8.0\4_Vse_chet.csproj.CoreCompileInputs.cache
+D:\GB\C_Sharp\sesiya\1\DZ\4_Vse_chet\obj\Debug\net8.0\4_Vse_chet.sourcelink.json
+D:\GB\C_Sharp\sesiya\1\DZ\4_Vse_chet\bin\Debug\net8.0\4_Vse_chet.exe
+D:\GB\C_Sharp\sesiya\1\DZ\4_Vse_chet\bin\Debug\net8.0\4_Vse_chet.deps.json
+D:\GB\C_Sharp\sesiya\1\DZ\4_Vse_chet\bin\Debug\net8.0\4_Vse_chet.runtimeconfig.json
+D:\GB\C_Sharp\sesiya\1\DZ\4_Vse_chet\bin\Debug\net8.0\4_Vse_chet.dll
+D:\GB\C_Sharp\sesiya\1\DZ\4_Vse_chet\bin\Debug\net8.0\4_Vse_chet.pdb
+D:\GB\C_Sharp\sesiya\1\DZ\4_Vse_chet\obj\Debug\net8.0\4_Vse_chet.dll
+D:\GB\C_Sharp\sesiya\1\DZ\4_Vse_chet\obj\Debug\net8.0\refint\4_Vse_chet.dll
+D:\GB\C_Sharp\sesiya\1\DZ\4_Vse_chet\obj\Debug\net8.0\4_Vse_chet.pdb
+D:\GB\C_Sharp\sesiya\1\DZ\4_Vse_chet\obj\Debug\net8.0\4_Vse_chet.genruntimeconfig.cache
+D:\GB\C_Sharp\sesiya\1\DZ\4_Vse_chet\obj\Debug\net8.0\ref\4_Vse_chet.dll

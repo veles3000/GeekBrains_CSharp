@@ -1,0 +1,15 @@
+D:\GB\C_Sharp\sesiya\1\DZ\3_chet_nechet\bin\Debug\net8.0\3_chet_nechet.exe
+D:\GB\C_Sharp\sesiya\1\DZ\3_chet_nechet\bin\Debug\net8.0\3_chet_nechet.deps.json
+D:\GB\C_Sharp\sesiya\1\DZ\3_chet_nechet\bin\Debug\net8.0\3_chet_nechet.runtimeconfig.json
+D:\GB\C_Sharp\sesiya\1\DZ\3_chet_nechet\bin\Debug\net8.0\3_chet_nechet.dll
+D:\GB\C_Sharp\sesiya\1\DZ\3_chet_nechet\bin\Debug\net8.0\3_chet_nechet.pdb
+D:\GB\C_Sharp\sesiya\1\DZ\3_chet_nechet\obj\Debug\net8.0\3_chet_nechet.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\C_Sharp\sesiya\1\DZ\3_chet_nechet\obj\Debug\net8.0\3_chet_nechet.AssemblyInfoInputs.cache
+D:\GB\C_Sharp\sesiya\1\DZ\3_chet_nechet\obj\Debug\net8.0\3_chet_nechet.AssemblyInfo.cs
+D:\GB\C_Sharp\sesiya\1\DZ\3_chet_nechet\obj\Debug\net8.0\3_chet_nechet.csproj.CoreCompileInputs.cache
+D:\GB\C_Sharp\sesiya\1\DZ\3_chet_nechet\obj\Debug\net8.0\3_chet_nechet.sourcelink.json
+D:\GB\C_Sharp\sesiya\1\DZ\3_chet_nechet\obj\Debug\net8.0\3_chet_nechet.dll
+D:\GB\C_Sharp\sesiya\1\DZ\3_chet_nechet\obj\Debug\net8.0\refint\3_chet_nechet.dll
+D:\GB\C_Sharp\sesiya\1\DZ\3_chet_nechet\obj\Debug\net8.0\3_chet_nechet.pdb
+D:\GB\C_Sharp\sesiya\1\DZ\3_chet_nechet\obj\Debug\net8.0\3_chet_nechet.genruntimeconfig.cache
+D:\GB\C_Sharp\sesiya\1\DZ\3_chet_nechet\obj\Debug\net8.0\ref\3_chet_nechet.dll
