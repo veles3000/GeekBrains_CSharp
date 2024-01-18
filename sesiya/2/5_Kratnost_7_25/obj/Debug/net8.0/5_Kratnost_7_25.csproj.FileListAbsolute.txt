@@ -1,0 +1,15 @@
+D:\GB\C_Sharp\sesiya\2\5_Kratnost_7_25\obj\Debug\net8.0\5_Kratnost_7_25.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\C_Sharp\sesiya\2\5_Kratnost_7_25\obj\Debug\net8.0\5_Kratnost_7_25.AssemblyInfoInputs.cache
+D:\GB\C_Sharp\sesiya\2\5_Kratnost_7_25\obj\Debug\net8.0\5_Kratnost_7_25.AssemblyInfo.cs
+D:\GB\C_Sharp\sesiya\2\5_Kratnost_7_25\obj\Debug\net8.0\5_Kratnost_7_25.csproj.CoreCompileInputs.cache
+D:\GB\C_Sharp\sesiya\2\5_Kratnost_7_25\obj\Debug\net8.0\5_Kratnost_7_25.sourcelink.json
+D:\GB\C_Sharp\sesiya\2\5_Kratnost_7_25\bin\Debug\net8.0\5_Kratnost_7_25.exe
+D:\GB\C_Sharp\sesiya\2\5_Kratnost_7_25\bin\Debug\net8.0\5_Kratnost_7_25.deps.json
+D:\GB\C_Sharp\sesiya\2\5_Kratnost_7_25\bin\Debug\net8.0\5_Kratnost_7_25.runtimeconfig.json
+D:\GB\C_Sharp\sesiya\2\5_Kratnost_7_25\bin\Debug\net8.0\5_Kratnost_7_25.dll
+D:\GB\C_Sharp\sesiya\2\5_Kratnost_7_25\bin\Debug\net8.0\5_Kratnost_7_25.pdb
+D:\GB\C_Sharp\sesiya\2\5_Kratnost_7_25\obj\Debug\net8.0\5_Kratnost_7_25.dll
+D:\GB\C_Sharp\sesiya\2\5_Kratnost_7_25\obj\Debug\net8.0\refint\5_Kratnost_7_25.dll
+D:\GB\C_Sharp\sesiya\2\5_Kratnost_7_25\obj\Debug\net8.0\5_Kratnost_7_25.pdb
+D:\GB\C_Sharp\sesiya\2\5_Kratnost_7_25\obj\Debug\net8.0\5_Kratnost_7_25.genruntimeconfig.cache
+D:\GB\C_Sharp\sesiya\2\5_Kratnost_7_25\obj\Debug\net8.0\ref\5_Kratnost_7_25.dll

@@ -1,0 +1,15 @@
+D:\GB\C_Sharp\sesiya\2\3_Kratnost\obj\Debug\net8.0\3_Kratnost.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\C_Sharp\sesiya\2\3_Kratnost\obj\Debug\net8.0\3_Kratnost.AssemblyInfoInputs.cache
+D:\GB\C_Sharp\sesiya\2\3_Kratnost\obj\Debug\net8.0\3_Kratnost.AssemblyInfo.cs
+D:\GB\C_Sharp\sesiya\2\3_Kratnost\obj\Debug\net8.0\3_Kratnost.csproj.CoreCompileInputs.cache
+D:\GB\C_Sharp\sesiya\2\3_Kratnost\obj\Debug\net8.0\3_Kratnost.sourcelink.json
+D:\GB\C_Sharp\sesiya\2\3_Kratnost\bin\Debug\net8.0\3_Kratnost.exe
+D:\GB\C_Sharp\sesiya\2\3_Kratnost\bin\Debug\net8.0\3_Kratnost.deps.json
+D:\GB\C_Sharp\sesiya\2\3_Kratnost\bin\Debug\net8.0\3_Kratnost.runtimeconfig.json
+D:\GB\C_Sharp\sesiya\2\3_Kratnost\bin\Debug\net8.0\3_Kratnost.dll
+D:\GB\C_Sharp\sesiya\2\3_Kratnost\bin\Debug\net8.0\3_Kratnost.pdb
+D:\GB\C_Sharp\sesiya\2\3_Kratnost\obj\Debug\net8.0\3_Kratnost.dll
+D:\GB\C_Sharp\sesiya\2\3_Kratnost\obj\Debug\net8.0\refint\3_Kratnost.dll
+D:\GB\C_Sharp\sesiya\2\3_Kratnost\obj\Debug\net8.0\3_Kratnost.pdb
+D:\GB\C_Sharp\sesiya\2\3_Kratnost\obj\Debug\net8.0\3_Kratnost.genruntimeconfig.cache
+D:\GB\C_Sharp\sesiya\2\3_Kratnost\obj\Debug\net8.0\ref\3_Kratnost.dll

@@ -1,0 +1,15 @@
+D:\GB\C_Sharp\sesiya\2\6_kvadrat\bin\Debug\net8.0\6_kvadrat.exe
+D:\GB\C_Sharp\sesiya\2\6_kvadrat\bin\Debug\net8.0\6_kvadrat.deps.json
+D:\GB\C_Sharp\sesiya\2\6_kvadrat\bin\Debug\net8.0\6_kvadrat.runtimeconfig.json
+D:\GB\C_Sharp\sesiya\2\6_kvadrat\bin\Debug\net8.0\6_kvadrat.dll
+D:\GB\C_Sharp\sesiya\2\6_kvadrat\bin\Debug\net8.0\6_kvadrat.pdb
+D:\GB\C_Sharp\sesiya\2\6_kvadrat\obj\Debug\net8.0\6_kvadrat.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\C_Sharp\sesiya\2\6_kvadrat\obj\Debug\net8.0\6_kvadrat.AssemblyInfoInputs.cache
+D:\GB\C_Sharp\sesiya\2\6_kvadrat\obj\Debug\net8.0\6_kvadrat.AssemblyInfo.cs
+D:\GB\C_Sharp\sesiya\2\6_kvadrat\obj\Debug\net8.0\6_kvadrat.csproj.CoreCompileInputs.cache
+D:\GB\C_Sharp\sesiya\2\6_kvadrat\obj\Debug\net8.0\6_kvadrat.sourcelink.json
+D:\GB\C_Sharp\sesiya\2\6_kvadrat\obj\Debug\net8.0\6_kvadrat.dll
+D:\GB\C_Sharp\sesiya\2\6_kvadrat\obj\Debug\net8.0\refint\6_kvadrat.dll
+D:\GB\C_Sharp\sesiya\2\6_kvadrat\obj\Debug\net8.0\6_kvadrat.pdb
+D:\GB\C_Sharp\sesiya\2\6_kvadrat\obj\Debug\net8.0\6_kvadrat.genruntimeconfig.cache
+D:\GB\C_Sharp\sesiya\2\6_kvadrat\obj\Debug\net8.0\ref\6_kvadrat.dll

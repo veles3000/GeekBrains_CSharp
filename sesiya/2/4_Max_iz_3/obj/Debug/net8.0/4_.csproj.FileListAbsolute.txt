@@ -1,0 +1,15 @@
+D:\GB\C_Sharp\sesiya\2\4_\obj\Debug\net8.0\4_.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\C_Sharp\sesiya\2\4_\obj\Debug\net8.0\4_.AssemblyInfoInputs.cache
+D:\GB\C_Sharp\sesiya\2\4_\obj\Debug\net8.0\4_.AssemblyInfo.cs
+D:\GB\C_Sharp\sesiya\2\4_\obj\Debug\net8.0\4_.csproj.CoreCompileInputs.cache
+D:\GB\C_Sharp\sesiya\2\4_\obj\Debug\net8.0\4_.sourcelink.json
+D:\GB\C_Sharp\sesiya\2\4_\bin\Debug\net8.0\4_.exe
+D:\GB\C_Sharp\sesiya\2\4_\bin\Debug\net8.0\4_.deps.json
+D:\GB\C_Sharp\sesiya\2\4_\bin\Debug\net8.0\4_.runtimeconfig.json
+D:\GB\C_Sharp\sesiya\2\4_\bin\Debug\net8.0\4_.dll
+D:\GB\C_Sharp\sesiya\2\4_\bin\Debug\net8.0\4_.pdb
+D:\GB\C_Sharp\sesiya\2\4_\obj\Debug\net8.0\4_.dll
+D:\GB\C_Sharp\sesiya\2\4_\obj\Debug\net8.0\refint\4_.dll
+D:\GB\C_Sharp\sesiya\2\4_\obj\Debug\net8.0\4_.pdb
+D:\GB\C_Sharp\sesiya\2\4_\obj\Debug\net8.0\4_.genruntimeconfig.cache
+D:\GB\C_Sharp\sesiya\2\4_\obj\Debug\net8.0\ref\4_.dll

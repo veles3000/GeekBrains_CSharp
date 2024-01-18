@@ -1,0 +1,15 @@
+D:\GB\C_Sharp\sesiya\2\7_Sum\bin\Debug\net8.0\7_Sum.exe
+D:\GB\C_Sharp\sesiya\2\7_Sum\bin\Debug\net8.0\7_Sum.deps.json
+D:\GB\C_Sharp\sesiya\2\7_Sum\bin\Debug\net8.0\7_Sum.runtimeconfig.json
+D:\GB\C_Sharp\sesiya\2\7_Sum\bin\Debug\net8.0\7_Sum.dll
+D:\GB\C_Sharp\sesiya\2\7_Sum\bin\Debug\net8.0\7_Sum.pdb
+D:\GB\C_Sharp\sesiya\2\7_Sum\obj\Debug\net8.0\7_Sum.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\C_Sharp\sesiya\2\7_Sum\obj\Debug\net8.0\7_Sum.AssemblyInfoInputs.cache
+D:\GB\C_Sharp\sesiya\2\7_Sum\obj\Debug\net8.0\7_Sum.AssemblyInfo.cs
+D:\GB\C_Sharp\sesiya\2\7_Sum\obj\Debug\net8.0\7_Sum.csproj.CoreCompileInputs.cache
+D:\GB\C_Sharp\sesiya\2\7_Sum\obj\Debug\net8.0\7_Sum.sourcelink.json
+D:\GB\C_Sharp\sesiya\2\7_Sum\obj\Debug\net8.0\7_Sum.dll
+D:\GB\C_Sharp\sesiya\2\7_Sum\obj\Debug\net8.0\refint\7_Sum.dll
+D:\GB\C_Sharp\sesiya\2\7_Sum\obj\Debug\net8.0\7_Sum.pdb
+D:\GB\C_Sharp\sesiya\2\7_Sum\obj\Debug\net8.0\7_Sum.genruntimeconfig.cache
+D:\GB\C_Sharp\sesiya\2\7_Sum\obj\Debug\net8.0\ref\7_Sum.dll

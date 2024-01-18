@@ -1,0 +1,15 @@
+D:\GB\C_Sharp\sesiya\2\2_Udalit_Chifru\obj\Debug\net8.0\2_Udalit_Chifru.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\C_Sharp\sesiya\2\2_Udalit_Chifru\obj\Debug\net8.0\2_Udalit_Chifru.AssemblyInfoInputs.cache
+D:\GB\C_Sharp\sesiya\2\2_Udalit_Chifru\obj\Debug\net8.0\2_Udalit_Chifru.AssemblyInfo.cs
+D:\GB\C_Sharp\sesiya\2\2_Udalit_Chifru\obj\Debug\net8.0\2_Udalit_Chifru.csproj.CoreCompileInputs.cache
+D:\GB\C_Sharp\sesiya\2\2_Udalit_Chifru\obj\Debug\net8.0\2_Udalit_Chifru.sourcelink.json
+D:\GB\C_Sharp\sesiya\2\2_Udalit_Chifru\bin\Debug\net8.0\2_Udalit_Chifru.exe
+D:\GB\C_Sharp\sesiya\2\2_Udalit_Chifru\bin\Debug\net8.0\2_Udalit_Chifru.deps.json
+D:\GB\C_Sharp\sesiya\2\2_Udalit_Chifru\bin\Debug\net8.0\2_Udalit_Chifru.runtimeconfig.json
+D:\GB\C_Sharp\sesiya\2\2_Udalit_Chifru\bin\Debug\net8.0\2_Udalit_Chifru.dll
+D:\GB\C_Sharp\sesiya\2\2_Udalit_Chifru\bin\Debug\net8.0\2_Udalit_Chifru.pdb
+D:\GB\C_Sharp\sesiya\2\2_Udalit_Chifru\obj\Debug\net8.0\2_Udalit_Chifru.dll
+D:\GB\C_Sharp\sesiya\2\2_Udalit_Chifru\obj\Debug\net8.0\refint\2_Udalit_Chifru.dll
+D:\GB\C_Sharp\sesiya\2\2_Udalit_Chifru\obj\Debug\net8.0\2_Udalit_Chifru.pdb
+D:\GB\C_Sharp\sesiya\2\2_Udalit_Chifru\obj\Debug\net8.0\2_Udalit_Chifru.genruntimeconfig.cache
+D:\GB\C_Sharp\sesiya\2\2_Udalit_Chifru\obj\Debug\net8.0\ref\2_Udalit_Chifru.dll
