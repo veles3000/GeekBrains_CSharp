@@ -1,0 +1,15 @@
+D:\GB\C_Sharp\sesiya\2\DZ\1_Zadacha\obj\Debug\net8.0\1_Zadacha.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\C_Sharp\sesiya\2\DZ\1_Zadacha\obj\Debug\net8.0\1_Zadacha.AssemblyInfoInputs.cache
+D:\GB\C_Sharp\sesiya\2\DZ\1_Zadacha\obj\Debug\net8.0\1_Zadacha.AssemblyInfo.cs
+D:\GB\C_Sharp\sesiya\2\DZ\1_Zadacha\obj\Debug\net8.0\1_Zadacha.csproj.CoreCompileInputs.cache
+D:\GB\C_Sharp\sesiya\2\DZ\1_Zadacha\obj\Debug\net8.0\1_Zadacha.sourcelink.json
+D:\GB\C_Sharp\sesiya\2\DZ\1_Zadacha\bin\Debug\net8.0\1_Zadacha.exe
+D:\GB\C_Sharp\sesiya\2\DZ\1_Zadacha\bin\Debug\net8.0\1_Zadacha.deps.json
+D:\GB\C_Sharp\sesiya\2\DZ\1_Zadacha\bin\Debug\net8.0\1_Zadacha.runtimeconfig.json
+D:\GB\C_Sharp\sesiya\2\DZ\1_Zadacha\bin\Debug\net8.0\1_Zadacha.dll
+D:\GB\C_Sharp\sesiya\2\DZ\1_Zadacha\bin\Debug\net8.0\1_Zadacha.pdb
+D:\GB\C_Sharp\sesiya\2\DZ\1_Zadacha\obj\Debug\net8.0\1_Zadacha.dll
+D:\GB\C_Sharp\sesiya\2\DZ\1_Zadacha\obj\Debug\net8.0\refint\1_Zadacha.dll
+D:\GB\C_Sharp\sesiya\2\DZ\1_Zadacha\obj\Debug\net8.0\1_Zadacha.pdb
+D:\GB\C_Sharp\sesiya\2\DZ\1_Zadacha\obj\Debug\net8.0\1_Zadacha.genruntimeconfig.cache
+D:\GB\C_Sharp\sesiya\2\DZ\1_Zadacha\obj\Debug\net8.0\ref\1_Zadacha.dll
