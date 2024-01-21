@@ -4,15 +4,24 @@ using System;
 using static System.Console;
 Clear();
 
-Console.Write("Введите 5 значное чило: ");
-int a = Convert.ToInt32(Console.ReadLine());
+Write("Введите 5 значное чило: ");
+int num = Convert.ToInt32(ReadLine());
 
-
-
-Write(a);
-
-
-
+string numS = num.ToString();
+char[] num2 = numS.ToCharArray();
+string num3 = "";
+int count = numS.Length;
+int result = 0;
+int count1 = numS.Length;
+for (int i = 0; i < count; i++)
+{
+    num3 = num3 + num2[count1-1];
+    Write(num3);
+    Write(" ");
+    count1--;
+    result ++;
+}
+Write(numS==num3 ? $"{num} палиндром " : $"{num} не палиндром");
 
 /*
 //Старое решение
