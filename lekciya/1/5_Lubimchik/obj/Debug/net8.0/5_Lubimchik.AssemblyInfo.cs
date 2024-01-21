@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("5_Lubimchik")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bab6860ed37fc2adaea1070dba75d247d8f4eea6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f0e88feb8fb5b5761d3ef43f5a317930ccf78c68")]
 [assembly: System.Reflection.AssemblyProductAttribute("5_Lubimchik")]
 [assembly: System.Reflection.AssemblyTitleAttribute("5_Lubimchik")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

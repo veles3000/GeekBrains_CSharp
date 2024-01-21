@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GB\\C_Sharp\\sesiya\\2\\4_\\4_.csproj": {}
+    "D:\\GB\\C_Sharp\\sesiya\\2\\4_Max_iz_3\\4_.csproj": {}
   },
   "projects": {
-    "D:\\GB\\C_Sharp\\sesiya\\2\\4_\\4_.csproj": {
+    "D:\\GB\\C_Sharp\\sesiya\\2\\4_Max_iz_3\\4_.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GB\\C_Sharp\\sesiya\\2\\4_\\4_.csproj",
+        "projectUniqueName": "D:\\GB\\C_Sharp\\sesiya\\2\\4_Max_iz_3\\4_.csproj",
         "projectName": "4_",
-        "projectPath": "D:\\GB\\C_Sharp\\sesiya\\2\\4_\\4_.csproj",
+        "projectPath": "D:\\GB\\C_Sharp\\sesiya\\2\\4_Max_iz_3\\4_.csproj",
         "packagesPath": "C:\\Users\\Юрий\\.nuget\\packages\\",
-        "outputPath": "D:\\GB\\C_Sharp\\sesiya\\2\\4_\\obj\\",
+        "outputPath": "D:\\GB\\C_Sharp\\sesiya\\2\\4_Max_iz_3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Юрий\\AppData\\Roaming\\NuGet\\NuGet.Config"

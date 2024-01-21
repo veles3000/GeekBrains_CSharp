@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("7_Magik")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5ea47158183102de00aded5acbe220500fcf3d30")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f0e88feb8fb5b5761d3ef43f5a317930ccf78c68")]
 [assembly: System.Reflection.AssemblyProductAttribute("7_Magik")]
 [assembly: System.Reflection.AssemblyTitleAttribute("7_Magik")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

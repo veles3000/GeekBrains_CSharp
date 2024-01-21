@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GB\\C_Sharp\\lekciya\\7_Magik\\7_Magik.csproj": {}
+    "D:\\GB\\C_Sharp\\lekciya\\1\\7_Magik\\7_Magik.csproj": {}
   },
   "projects": {
-    "D:\\GB\\C_Sharp\\lekciya\\7_Magik\\7_Magik.csproj": {
+    "D:\\GB\\C_Sharp\\lekciya\\1\\7_Magik\\7_Magik.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GB\\C_Sharp\\lekciya\\7_Magik\\7_Magik.csproj",
+        "projectUniqueName": "D:\\GB\\C_Sharp\\lekciya\\1\\7_Magik\\7_Magik.csproj",
         "projectName": "7_Magik",
-        "projectPath": "D:\\GB\\C_Sharp\\lekciya\\7_Magik\\7_Magik.csproj",
+        "projectPath": "D:\\GB\\C_Sharp\\lekciya\\1\\7_Magik\\7_Magik.csproj",
         "packagesPath": "C:\\Users\\Юрий\\.nuget\\packages\\",
-        "outputPath": "D:\\GB\\C_Sharp\\lekciya\\7_Magik\\obj\\",
+        "outputPath": "D:\\GB\\C_Sharp\\lekciya\\1\\7_Magik\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Юрий\\AppData\\Roaming\\NuGet\\NuGet.Config"

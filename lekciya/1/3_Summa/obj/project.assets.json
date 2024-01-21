@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GB\\C_Sharp\\lekciya\\3_Summa\\3_Summa.csproj",
+      "projectUniqueName": "D:\\GB\\C_Sharp\\lekciya\\1\\3_Summa\\3_Summa.csproj",
       "projectName": "3_Summa",
-      "projectPath": "D:\\GB\\C_Sharp\\lekciya\\3_Summa\\3_Summa.csproj",
+      "projectPath": "D:\\GB\\C_Sharp\\lekciya\\1\\3_Summa\\3_Summa.csproj",
       "packagesPath": "C:\\Users\\Юрий\\.nuget\\packages\\",
-      "outputPath": "D:\\GB\\C_Sharp\\lekciya\\3_Summa\\obj\\",
+      "outputPath": "D:\\GB\\C_Sharp\\lekciya\\1\\3_Summa\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Юрий\\AppData\\Roaming\\NuGet\\NuGet.Config"

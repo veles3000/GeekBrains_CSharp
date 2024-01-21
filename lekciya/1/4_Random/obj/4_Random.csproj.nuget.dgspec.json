@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GB\\C_Sharp\\lekciya\\4_Random\\4_Random.csproj": {}
+    "D:\\GB\\C_Sharp\\lekciya\\1\\4_Random\\4_Random.csproj": {}
   },
   "projects": {
-    "D:\\GB\\C_Sharp\\lekciya\\4_Random\\4_Random.csproj": {
+    "D:\\GB\\C_Sharp\\lekciya\\1\\4_Random\\4_Random.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GB\\C_Sharp\\lekciya\\4_Random\\4_Random.csproj",
+        "projectUniqueName": "D:\\GB\\C_Sharp\\lekciya\\1\\4_Random\\4_Random.csproj",
         "projectName": "4_Random",
-        "projectPath": "D:\\GB\\C_Sharp\\lekciya\\4_Random\\4_Random.csproj",
+        "projectPath": "D:\\GB\\C_Sharp\\lekciya\\1\\4_Random\\4_Random.csproj",
         "packagesPath": "C:\\Users\\Юрий\\.nuget\\packages\\",
-        "outputPath": "D:\\GB\\C_Sharp\\lekciya\\4_Random\\obj\\",
+        "outputPath": "D:\\GB\\C_Sharp\\lekciya\\1\\4_Random\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Юрий\\AppData\\Roaming\\NuGet\\NuGet.Config"

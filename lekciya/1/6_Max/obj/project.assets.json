@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GB\\C_Sharp\\lekciya\\6_Max\\6_Max.csproj",
+      "projectUniqueName": "D:\\GB\\C_Sharp\\lekciya\\1\\6_Max\\6_Max.csproj",
       "projectName": "6_Max",
-      "projectPath": "D:\\GB\\C_Sharp\\lekciya\\6_Max\\6_Max.csproj",
+      "projectPath": "D:\\GB\\C_Sharp\\lekciya\\1\\6_Max\\6_Max.csproj",
       "packagesPath": "C:\\Users\\Юрий\\.nuget\\packages\\",
-      "outputPath": "D:\\GB\\C_Sharp\\lekciya\\6_Max\\obj\\",
+      "outputPath": "D:\\GB\\C_Sharp\\lekciya\\1\\6_Max\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Юрий\\AppData\\Roaming\\NuGet\\NuGet.Config"
