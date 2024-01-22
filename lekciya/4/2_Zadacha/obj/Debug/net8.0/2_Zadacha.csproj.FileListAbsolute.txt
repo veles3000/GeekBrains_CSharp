@@ -1,0 +1,15 @@
+D:\GB\C_Sharp\lekciya\4\2_Zadacha\bin\Debug\net8.0\2_Zadacha.exe
+D:\GB\C_Sharp\lekciya\4\2_Zadacha\bin\Debug\net8.0\2_Zadacha.deps.json
+D:\GB\C_Sharp\lekciya\4\2_Zadacha\bin\Debug\net8.0\2_Zadacha.runtimeconfig.json
+D:\GB\C_Sharp\lekciya\4\2_Zadacha\bin\Debug\net8.0\2_Zadacha.dll
+D:\GB\C_Sharp\lekciya\4\2_Zadacha\bin\Debug\net8.0\2_Zadacha.pdb
+D:\GB\C_Sharp\lekciya\4\2_Zadacha\obj\Debug\net8.0\2_Zadacha.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\C_Sharp\lekciya\4\2_Zadacha\obj\Debug\net8.0\2_Zadacha.AssemblyInfoInputs.cache
+D:\GB\C_Sharp\lekciya\4\2_Zadacha\obj\Debug\net8.0\2_Zadacha.AssemblyInfo.cs
+D:\GB\C_Sharp\lekciya\4\2_Zadacha\obj\Debug\net8.0\2_Zadacha.csproj.CoreCompileInputs.cache
+D:\GB\C_Sharp\lekciya\4\2_Zadacha\obj\Debug\net8.0\2_Zadacha.sourcelink.json
+D:\GB\C_Sharp\lekciya\4\2_Zadacha\obj\Debug\net8.0\2_Zadacha.dll
+D:\GB\C_Sharp\lekciya\4\2_Zadacha\obj\Debug\net8.0\refint\2_Zadacha.dll
+D:\GB\C_Sharp\lekciya\4\2_Zadacha\obj\Debug\net8.0\2_Zadacha.pdb
+D:\GB\C_Sharp\lekciya\4\2_Zadacha\obj\Debug\net8.0\2_Zadacha.genruntimeconfig.cache
+D:\GB\C_Sharp\lekciya\4\2_Zadacha\obj\Debug\net8.0\ref\2_Zadacha.dll

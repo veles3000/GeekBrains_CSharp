@@ -1,0 +1,15 @@
+D:\GB\C_Sharp\lekciya\4\4_Zadach\obj\Debug\net8.0\4_Zadach.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\C_Sharp\lekciya\4\4_Zadach\obj\Debug\net8.0\4_Zadach.AssemblyInfoInputs.cache
+D:\GB\C_Sharp\lekciya\4\4_Zadach\obj\Debug\net8.0\4_Zadach.AssemblyInfo.cs
+D:\GB\C_Sharp\lekciya\4\4_Zadach\obj\Debug\net8.0\4_Zadach.csproj.CoreCompileInputs.cache
+D:\GB\C_Sharp\lekciya\4\4_Zadach\obj\Debug\net8.0\4_Zadach.sourcelink.json
+D:\GB\C_Sharp\lekciya\4\4_Zadach\bin\Debug\net8.0\4_Zadach.exe
+D:\GB\C_Sharp\lekciya\4\4_Zadach\bin\Debug\net8.0\4_Zadach.deps.json
+D:\GB\C_Sharp\lekciya\4\4_Zadach\bin\Debug\net8.0\4_Zadach.runtimeconfig.json
+D:\GB\C_Sharp\lekciya\4\4_Zadach\bin\Debug\net8.0\4_Zadach.dll
+D:\GB\C_Sharp\lekciya\4\4_Zadach\bin\Debug\net8.0\4_Zadach.pdb
+D:\GB\C_Sharp\lekciya\4\4_Zadach\obj\Debug\net8.0\4_Zadach.dll
+D:\GB\C_Sharp\lekciya\4\4_Zadach\obj\Debug\net8.0\refint\4_Zadach.dll
+D:\GB\C_Sharp\lekciya\4\4_Zadach\obj\Debug\net8.0\4_Zadach.pdb
+D:\GB\C_Sharp\lekciya\4\4_Zadach\obj\Debug\net8.0\4_Zadach.genruntimeconfig.cache
+D:\GB\C_Sharp\lekciya\4\4_Zadach\obj\Debug\net8.0\ref\4_Zadach.dll
