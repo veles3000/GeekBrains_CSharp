@@ -3,7 +3,9 @@
 using System;
 using static System.Console;
 Clear();
-/*
+
+
+// Новое решение
 Write(" Введите число: ");
 int A = Convert.ToInt32(ReadLine());
 Write(" Введите степень: ");
@@ -14,8 +16,10 @@ void Stepen(int Chis, int step)
    WriteLine(Math.Pow(A,B));
 }
 Stepen(A,B);
-*/
 
+
+/*
+// Старое решение
 Console.Write("Введите первое число: ");
 int A = int.Parse(Console.ReadLine());
 Console.Write("Введите второе число: ");
@@ -28,3 +32,4 @@ while (i<B)
     i++;
 }
 Console.WriteLine(C);
+*/

@@ -1,8 +1,6 @@
 ﻿//
 
-using System;
-using static System.Console;
-Clear();
+ 
 /*
 string[,] table = new string[2, 5];
 // String.Empty
