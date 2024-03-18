@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GB\\C_Sharp\\lekciya\\1\\1_Hello\\1.csproj",
+      "projectUniqueName": "D:\\GeekBrains_CSharp\\lekciya\\1\\1_Hello\\1.csproj",
       "projectName": "1",
-      "projectPath": "D:\\GB\\C_Sharp\\lekciya\\1\\1_Hello\\1.csproj",
+      "projectPath": "D:\\GeekBrains_CSharp\\lekciya\\1\\1_Hello\\1.csproj",
       "packagesPath": "C:\\Users\\Юрий\\.nuget\\packages\\",
-      "outputPath": "D:\\GB\\C_Sharp\\lekciya\\1\\1_Hello\\obj\\",
+      "outputPath": "D:\\GeekBrains_CSharp\\lekciya\\1\\1_Hello\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Юрий\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -38,6 +38,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -59,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

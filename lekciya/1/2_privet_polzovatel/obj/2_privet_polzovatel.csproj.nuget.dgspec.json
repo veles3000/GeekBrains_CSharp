@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GB\\C_Sharp\\lekciya\\1\\2_privet_polzovatel\\2_privet_polzovatel.csproj": {}
+    "D:\\GeekBrains_CSharp\\lekciya\\1\\2_privet_polzovatel\\2_privet_polzovatel.csproj": {}
   },
   "projects": {
-    "D:\\GB\\C_Sharp\\lekciya\\1\\2_privet_polzovatel\\2_privet_polzovatel.csproj": {
+    "D:\\GeekBrains_CSharp\\lekciya\\1\\2_privet_polzovatel\\2_privet_polzovatel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GB\\C_Sharp\\lekciya\\1\\2_privet_polzovatel\\2_privet_polzovatel.csproj",
+        "projectUniqueName": "D:\\GeekBrains_CSharp\\lekciya\\1\\2_privet_polzovatel\\2_privet_polzovatel.csproj",
         "projectName": "2_privet_polzovatel",
-        "projectPath": "D:\\GB\\C_Sharp\\lekciya\\1\\2_privet_polzovatel\\2_privet_polzovatel.csproj",
+        "projectPath": "D:\\GeekBrains_CSharp\\lekciya\\1\\2_privet_polzovatel\\2_privet_polzovatel.csproj",
         "packagesPath": "C:\\Users\\Юрий\\.nuget\\packages\\",
-        "outputPath": "D:\\GB\\C_Sharp\\lekciya\\1\\2_privet_polzovatel\\obj\\",
+        "outputPath": "D:\\GeekBrains_CSharp\\lekciya\\1\\2_privet_polzovatel\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Юрий\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -32,6 +32,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -53,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

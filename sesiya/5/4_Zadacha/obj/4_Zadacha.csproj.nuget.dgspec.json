@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GB\\C_Sharp\\sesiya\\5\\4_Zadacha\\4_Zadacha.csproj": {}
+    "D:\\GeekBrains_CSharp\\sesiya\\5\\4_Zadacha\\4_Zadacha.csproj": {}
   },
   "projects": {
-    "D:\\GB\\C_Sharp\\sesiya\\5\\4_Zadacha\\4_Zadacha.csproj": {
+    "D:\\GeekBrains_CSharp\\sesiya\\5\\4_Zadacha\\4_Zadacha.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GB\\C_Sharp\\sesiya\\5\\4_Zadacha\\4_Zadacha.csproj",
+        "projectUniqueName": "D:\\GeekBrains_CSharp\\sesiya\\5\\4_Zadacha\\4_Zadacha.csproj",
         "projectName": "4_Zadacha",
-        "projectPath": "D:\\GB\\C_Sharp\\sesiya\\5\\4_Zadacha\\4_Zadacha.csproj",
+        "projectPath": "D:\\GeekBrains_CSharp\\sesiya\\5\\4_Zadacha\\4_Zadacha.csproj",
         "packagesPath": "C:\\Users\\Юрий\\.nuget\\packages\\",
-        "outputPath": "D:\\GB\\C_Sharp\\sesiya\\5\\4_Zadacha\\obj\\",
+        "outputPath": "D:\\GeekBrains_CSharp\\sesiya\\5\\4_Zadacha\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Юрий\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -32,6 +32,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -53,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.102/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
