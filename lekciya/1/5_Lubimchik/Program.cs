@@ -1,9 +1,9 @@
-
+// Привет любимчик
 
 Console.Write(" Введите имя пользователя: ");
 string username = Console.ReadLine();
 
-if(username.ToLower() == "Luba")
+if (username.ToLower() == "Luba")
 {
     Console.Write(" Привет! Моя Любовь!");
 }
